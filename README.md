@@ -1,2 +1,1 @@
-# FirstTest
-Code in Java learning
+SDream是一款致力于优化skill调度、自进化机制，优化memory整合的工具。
